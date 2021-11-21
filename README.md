@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sametsJR(Aliaksandr Samets)
-- 👀 I’m interested in wev development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Python & Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
