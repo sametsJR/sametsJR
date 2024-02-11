@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sametsJR(Aliaksandr Samets)
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python & Django, PHP & Laravel
+- 👋 Hi, I’m @sametsJR (Aliaksandr Samets)
+- 👀 I’m a QA Engineer
+- 🌱 I’m currently learning Java for QA Automation
 - 📫 How to reach me aliaksandr.samets@gmail.com
 
 <!---
